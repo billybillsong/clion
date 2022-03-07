@@ -1,0 +1,19 @@
+# ninja log v5
+6	317	6683377942602090	CMakeFiles/clion.dir/Worker.cpp.obj	832348c1b5c778d1
+6	363	6683391849033102	CMakeFiles/clion.dir/main.cpp.obj	37b32262adb2c159
+353	465	6683391944067655	clion.exe	9c74ea8d05905557
+2	388	6683389135955900	CMakeFiles/clion.dir/Employee.cpp.obj	81edddefcb9273f
+10	400	6683389136075446	CMakeFiles/clion.dir/Manager.cpp.obj	30d810751f52a568
+1	352	6683391942980554	CMakeFiles/clion.dir/Boss.cpp.obj	9337b57cbfc29f42
+0	160	6683393562238175	build.ninja	3ccc47ca06022d71
+6	364	6683405780097957	CMakeFiles/clion.dir/WorkerManager.cpp.obj	fe97f2d27f17c23
+2	370	6683405780157800	CMakeFiles/clion.dir/main.cpp.obj	37b32262adb2c159
+370	499	6683405781424415	clion.exe	c83cb8672f2bf721
+7	386	6683408889685359	CMakeFiles/clion.dir/WorkerManager.cpp.obj	fe97f2d27f17c23
+11	390	6683408889745204	CMakeFiles/clion.dir/Manager.cpp.obj	30d810751f52a568
+2	398	6683408889815013	CMakeFiles/clion.dir/Employee.cpp.obj	81edddefcb9273f
+398	510	6683408890912080	clion.exe	c83cb8672f2bf721
+2	346	6683409339515229	CMakeFiles/clion.dir/WorkerManager.cpp.obj	fe97f2d27f17c23
+346	457	6683409340602622	clion.exe	c83cb8672f2bf721
+1	358	6683410037069794	CMakeFiles/clion.dir/main.cpp.obj	37b32262adb2c159
+358	471	6683410038156885	clion.exe	c83cb8672f2bf721
